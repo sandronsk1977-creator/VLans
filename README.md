@@ -108,4 +108,4 @@ Após configurar as VLANs, você pode:
 
 ## 📜 Licença
 
-Uso **educacional** sinta-se livre para usar e modificar para fins de ensino e aprendizado! 🎓✨
+**Gratuito para uso educacional** Professores e Instituições podem utilizar e adaptar o projeto para suas atividades de ensino. 🎓✨
