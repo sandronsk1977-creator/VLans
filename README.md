@@ -106,9 +106,6 @@ Após configurar as VLANs, você pode:
 
 ---
 
-
-
-
 ## 📜 Licença
 
-Uso **educacional** — sinta-se livre para usar e modificar para fins de ensino e aprendizado! 🎓✨
+Uso **educacional** sinta-se livre para usar e modificar para fins de ensino e aprendizado! 🎓✨
