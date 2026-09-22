@@ -89,7 +89,7 @@ Após configurar as VLANs, você pode:
 
 ## 📚 Conceitos Teóricos (Revisão)
 
-- 🌐 **VLAN** — divide um switch físico em redes lógicas independentes, como se fossem switches separados.
+- 🌐 **VLAN** divide um switch físico em redes lógicas independentes, como se fossem switches ou redes segmentadas.
 - 📡 **Domínio de broadcast** o tráfego (ex.: ARP) só é entregue dentro da própria VLAN, reduzindo tráfego e aumentando a segurança.
 - 🔌 **Porta Access** pertence a uma única VLAN; usada para PCs, impressoras e servidores.
 - 🔗 **Porta Trunk** carrega várias VLANs entre switches usando **tags 802.1Q** (uplink entre switches).
