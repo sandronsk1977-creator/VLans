@@ -1,4 +1,4 @@
-# 🛡️ Projeto SF Cyber | Academia CiberSegurança e Redes
+# 🛡️ Projeto SF Cyber 📚 Academia CiberSegurança e Redes
 
 ### 📡 Simulador do Switch Cisco para criação de VLANs
 
