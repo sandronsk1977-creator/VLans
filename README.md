@@ -10,16 +10,16 @@ Simulador **interativo e educativo** de um switch Cisco 🖥️ para ensinar **V
 
 ## ✨ Funcionalidades
 
-- 🖱️ **Terminal Cisco realista** — digite comandos como `configure terminal`, `vlan 10`, `switchport mode access` e veja o resultado em tempo real.
-- 🧭 **6 níveis progressivos** — do básico (criar VLAN) até a configuração completa do switch.
-- 🤖 **Assistente virtual (SF Bot)** — acompanha o aluno, dá dicas e mostra o próximo passo.
-- 💡 **Dicas e revisão teórica** — modal de conceitos para reforçar o aprendizado.
-- 🗺️ **Mapa de níveis** — visualize seu progresso.
-- 🧪 **Teste de conectividade (Ping)** — simule ping entre PCs e descubra se estão na mesma VLAN.
-- 📝 **Prova final** — questionário com 6 perguntas para testar o conhecimento.
-- 🎓 **Certificado de conclusão** — com nome do aluno, pontuação e data (pronto para imprimir).
-- 💾 **Salvamento automático** — seu progresso fica salvo no navegador (localStorage) e pode ser retomado.
-- ⌨️ **Autocomplete** — sugestões de comandos conforme você digita.
+- 🖱️ **Terminal Cisco realista** digite comandos como `configure terminal`, `vlan 10`, `switchport mode access` e veja o resultado em tempo real.
+- 🧭 **6 níveis progressivos** do básico (criar VLAN) até a configuração completa do switch.
+- 🤖 **Assistente virtual (SF Bot)** acompanha o aluno, dá dicas e mostra o próximo passo.
+- 💡 **Dicas e revisão teórica** modal de conceitos para reforçar o aprendizado.
+- 🗺️ **Mapa de níveis** visualize seu progresso.
+- 🧪 **Teste de conectividade (Ping)** simule ping entre PCs e descubra se estão na mesma VLAN.
+- 📝 **Prova final** questionário com 6 perguntas para testar o conhecimento.
+- 🎓 **Certificado de conclusão** com nome do aluno, pontuação e data (pronto para imprimir).
+- 💾 **Salvamento automático** seu progresso fica salvo no navegador (localStorage) e pode ser retomado.
+- ⌨️ **Autocomplete** sugestões de comandos conforme você digita.
 - 🌐 **Totalmente em português** (pt-BR).
 
 ---
